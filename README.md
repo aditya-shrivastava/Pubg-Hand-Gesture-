@@ -1,3 +1,5 @@
+# Before starting check if the modules are installed properly
+
 # Pubg-Hand-Gesture-
 Play pubg mobile using hand gestures
 Watch the video here to know how it works:
